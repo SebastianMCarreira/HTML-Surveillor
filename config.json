@@ -1,0 +1,11 @@
+{
+    "downloads_path": "C:\\Users\\Sebastián\\Downloads",
+    "frequency": 5,
+    "matches":[
+        {
+            "filename_expression": "\\d{1,4}-\\d{1,2}-\\d{1,2} \\d{1,2}_\\d{1,2}_\\d{1,2}.*\\.json",
+            "url_expression": "https?://web.whatsapp.com/.*",
+            "path": "C:\\Users\\Sebastián\\Desktop\\Whatsapp bot"
+        }
+    ]
+}

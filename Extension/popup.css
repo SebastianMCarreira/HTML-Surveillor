@@ -1,0 +1,16 @@
+.header{
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 2px;
+    border-bottom-color: black;
+    border-bottom-style: double;
+    padding-bottom: 10px;
+}
+
+#eye{
+    float: right;
+}
+
+#timeout{
+    width: 100px;
+}
